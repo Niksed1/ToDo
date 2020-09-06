@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+To import FileUtils use import org.apache.commons.io.FileUtils; instead of old import android.os.FileUtils
 
 ## License
 
